@@ -129,6 +129,7 @@ All attributes must have atomic (single) values — no repeating or multivalued 
 
 * Table must be in 1NF
 * All non-key attributes must depend on the entire primary key, not part of it.
+  
 | StudentID | StudentName | Course |
 | --------- | ----------- | ------ |
 | 1         | Ravi        | DBMS   |
