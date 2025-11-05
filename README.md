@@ -90,3 +90,17 @@ All attributes must have atomic (single) values — no repeating or multivalued 
 | ---------- | --------------- |
 | Anitha     | 9876543210      |
 | Kumar      | 9876501234      |
+
+print department wise highest salary
+
+<img width="632" height="317" alt="Screenshot 2025-11-05 183019" src="https://github.com/user-attachments/assets/12217f23-7f7b-496f-8397-a80f7701eb9e" />
+
+print department which have more than one employee
+
+<img width="456" height="267" alt="Screenshot 2025-11-05 183304" src="https://github.com/user-attachments/assets/93abad44-d949-49c4-afa2-2b6233c63b4c" />
+
+write a program for encapsulation
+
+<img width="769" height="851" alt="Screenshot 2025-11-05 185226" src="https://github.com/user-attachments/assets/42bc8b50-b5ed-4ba8-8c20-d45f54d59f11" />
+
+
