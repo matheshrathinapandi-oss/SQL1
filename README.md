@@ -105,7 +105,7 @@ print department which have more than one employee
 
 Example program for inheritance
 
-<img width="638" height="735" alt="Screenshot 2025-11-06 104210" src="https://github.com/user-attachments/assets/613d6f6b-535a-46fc-b0f7-b940f75db42d" />
+<img width="651" height="740" alt="Screenshot 2025-11-06 104838" src="https://github.com/user-attachments/assets/cc3a0af6-d5a5-4262-92f4-6102412d83c3" />
 
 write a program for encapsulation
 
