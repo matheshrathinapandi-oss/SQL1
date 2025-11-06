@@ -103,6 +103,10 @@ print department which have more than one employee
 
 <img width="456" height="267" alt="Screenshot 2025-11-05 183304" src="https://github.com/user-attachments/assets/93abad44-d949-49c4-afa2-2b6233c63b4c" />
 
+Example program for inheritance
+
+<img width="638" height="735" alt="Screenshot 2025-11-06 104210" src="https://github.com/user-attachments/assets/613d6f6b-535a-46fc-b0f7-b940f75db42d" />
+
 write a program for encapsulation
 
 <img width="769" height="851" alt="Screenshot 2025-11-05 185226" src="https://github.com/user-attachments/assets/42bc8b50-b5ed-4ba8-8c20-d45f54d59f11" />
