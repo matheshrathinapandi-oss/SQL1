@@ -111,4 +111,7 @@ write a program for encapsulation
 
 <img width="769" height="851" alt="Screenshot 2025-11-05 185226" src="https://github.com/user-attachments/assets/42bc8b50-b5ed-4ba8-8c20-d45f54d59f11" />
 
+Write a program for generators
+
+<img width="656" height="869" alt="Screenshot 2025-11-06 185656" src="https://github.com/user-attachments/assets/a9c712d2-3d3c-4878-9888-8b8b0630858a" />
 
