@@ -95,6 +95,10 @@ print department wise highest salary
 
 <img width="632" height="317" alt="Screenshot 2025-11-05 183019" src="https://github.com/user-attachments/assets/12217f23-7f7b-496f-8397-a80f7701eb9e" />
 
+print the second highest salary for each department
+
+<img width="615" height="267" alt="Screenshot 2025-11-06 102503" src="https://github.com/user-attachments/assets/6c61c355-daba-4fe8-bfed-cc94c131b473" />
+
 print department which have more than one employee
 
 <img width="456" height="267" alt="Screenshot 2025-11-05 183304" src="https://github.com/user-attachments/assets/93abad44-d949-49c4-afa2-2b6233c63b4c" />
