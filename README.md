@@ -103,6 +103,14 @@ print department which have more than one employee
 
 <img width="456" height="267" alt="Screenshot 2025-11-05 183304" src="https://github.com/user-attachments/assets/93abad44-d949-49c4-afa2-2b6233c63b4c" />
 
+Print the customer who orderd more than two products
+
+<img width="511" height="225" alt="Screenshot 2025-11-07 104351" src="https://github.com/user-attachments/assets/5b714d0b-4bc0-41ab-9a21-19466129edd2" />
+
+SQL Hcakerrank problems
+
+<img width="1833" height="855" alt="Screenshot 2025-11-07 104748" src="https://github.com/user-attachments/assets/e1f32e1d-7f3b-4904-b5d7-67f79917c356" />
+
 Example program for inheritance
 
 <img width="651" height="740" alt="Screenshot 2025-11-06 104838" src="https://github.com/user-attachments/assets/cc3a0af6-d5a5-4262-92f4-6102412d83c3" />
