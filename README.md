@@ -123,3 +123,9 @@ Write a program for generators
 
 <img width="656" height="869" alt="Screenshot 2025-11-06 185656" src="https://github.com/user-attachments/assets/a9c712d2-3d3c-4878-9888-8b8b0630858a" />
 
+Leet code problems
+
+<img width="1674" height="831" alt="Screenshot 2025-11-10 104839" src="https://github.com/user-attachments/assets/bd2fdd5b-42e1-49ba-922c-18310ec070c5" />
+
+<img width="1747" height="837" alt="Screenshot 2025-11-10 104614" src="https://github.com/user-attachments/assets/a1f7e98c-65a2-4f06-b310-9512dd890daf" />
+
