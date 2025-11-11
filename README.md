@@ -135,4 +135,6 @@ Leet code problems
 
 <img width="1560" height="847" alt="Screenshot 2025-11-10 183532" src="https://github.com/user-attachments/assets/c01dc7d5-81f1-45a3-b158-6b221e3986ee" />
 
+<img width="1867" height="896" alt="Screenshot 2025-11-11 145952" src="https://github.com/user-attachments/assets/5b491807-c8bd-4c8a-899d-2c90faa974f8" />
 
+<img width="1908" height="835" alt="Screenshot 2025-11-11 151444" src="https://github.com/user-attachments/assets/2dfbb4dd-328a-4ffd-b31c-ce0616e59ccc" />
